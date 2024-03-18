@@ -1,0 +1,1 @@
+Olá esse projeto simula um blog com notícias de Animes e Manhwas, foi utilizado HTML, CSS, TyperScript e Angular.
